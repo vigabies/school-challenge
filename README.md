@@ -7,6 +7,7 @@ You’re a developer experienced in software development and OOP. You currently 
 # Tasks:
 
 <li>Create a class named Student with attributes for the required info.</li>
-Create a second class called Main.
-In the Main class, instantiate the Student class.
-Assign values to the Student class attributes to test the code.
+<li>Create a second class called Main.</li>
+<li>In the Main class, instantiate the Student class.</li>
+<li>Assign values to the Student class attributes to test the code.</li>
+
